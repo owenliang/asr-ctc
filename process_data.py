@@ -61,7 +61,7 @@ def process_data(all_metas,tokenizer):
         torch.save(sample,sample_file)
         samples+=1
     return samples
-    
+
 if __name__=='__main__':
     train_metas=load_metadata('data/train.txt')
     val_metas=load_metadata('data/val.txt')

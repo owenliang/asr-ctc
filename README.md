@@ -26,3 +26,8 @@ drwxr-xr-x 1 owen 197121 0  6月  7 22:02 5535423430009926848/
 drwxr-xr-x 1 owen 197121 0  6月  7 22:02 5535496873950688380/
 drwxr-xr-x 1 owen 197121 0  6月  7 22:02 5535864093654496929/
 ```
+
+## Usage
+
+* run process_data.py to process the dataset
+* run asr.ipynb to train and evaluate
